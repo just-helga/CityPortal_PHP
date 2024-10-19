@@ -1,0 +1,16 @@
+{
+    "name": "hohlo/city-portal-php",
+    "autoload": {
+        "psr-4": {
+            "Hohlo\\CityPortalPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olga"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
